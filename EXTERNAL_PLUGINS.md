@@ -36,6 +36,7 @@ Pull requests welcome.
 - [libvirt](https://gitlab.com/warrenio/tools/telegraf-input-libvirt) - Gather libvirt domain stats, based on a historical Telegraf implementation [libvirt](https://libvirt.org/)
 - [bacnet](https://github.com/JurajMarcin/telegraf-bacnet) - Gather statistics from BACnet devices, with support for device discovery and Change of Value subscriptions
 - [tado](https://github.com/zoeimogen/tado-telegraf-plugin) - Gather zone temperature settings and current temperature/humidity readings from Tado
+- [kraken](https://github.com/guillaume-gricourt/telegraf-kraken) - Gather data from [Kraken API](https://docs.kraken.com/rest/#section/General-Usage/Support), a cryptocurrency exchange
 
 ## Outputs
 
